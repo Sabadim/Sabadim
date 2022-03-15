@@ -20,7 +20,7 @@ console.log( `Olá! Me chamo ${eu.nome}, tenho ${eu.idade} anos e busco minha pr
 - Atualmente crio artes como Designer Gráfico (Freelancer) utilizando  <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />, <img align="center" alt="Gimp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg"/> e 
   <img align="center" alt="Inkscape" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg">
 e estou montando um site utilizando o <img align="center" alt="Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" /><br><br>
--Contato: sabadim.12@gmail.com / <a href="https://api.whatsapp.com/send?phone=5521993179816">(21)99317-9816</a> <br><br>
+- Contato: sabadim.12@gmail.com / <a href="https://api.whatsapp.com/send?phone=5521993179816">(21)99317-9816</a> <br><br>
 - 😄 Ele/Dele 
 
 
